@@ -44,3 +44,6 @@ gitops/
 │   ├── grafana.yaml
 │   └── nginx.yaml
 └── README.md
+
+
+<img width="1351" height="617" alt="image" src="https://github.com/user-attachments/assets/63e2a189-dbc7-4904-b489-e13aa0ea3566" />
